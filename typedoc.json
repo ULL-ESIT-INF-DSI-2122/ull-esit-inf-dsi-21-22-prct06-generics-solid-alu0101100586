@@ -1,6 +1,10 @@
 {
   "entryPoints": [
-    "./src/PE_102/example.ts"
+    "src/PE_102/collectable.ts",
+    "src/PE_102/printable.ts",
+    "src/PE_102/printable_collection.ts",
+    "src/PE_102/numeric_printable_collection.ts",
+    "src/PE_102/string_printable_collection.ts"
   ],
   "out": "./docs"
 }
