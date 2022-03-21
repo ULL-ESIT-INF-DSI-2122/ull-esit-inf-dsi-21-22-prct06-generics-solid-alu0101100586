@@ -1,6 +1,6 @@
 {
   "entryPoints": [
-    "./src/index.ts"
+    "./src/PE_102/example.ts"
   ],
   "out": "./docs"
 }
