@@ -1,4 +1,3 @@
-import {Printable} from "./printable"
 import { PrintaleCollection } from "./printable_collection";
 
 /**
