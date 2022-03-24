@@ -4,7 +4,20 @@
     "src/PE_102/printable.ts",
     "src/PE_102/printable_collection.ts",
     "src/PE_102/numeric_printable_collection.ts",
-    "src/PE_102/string_printable_collection.ts"
+    "src/PE_102/string_printable_collection.ts",
+    "src/Ejercicio_1/combat.ts",
+    "src/Ejercicio_1/dragon_ball.ts",
+    "src/Ejercicio_1/elden_ring.ts",
+    "src/Ejercicio_1/fighter.ts",
+    "src/Ejercicio_1/marvel.ts",
+    "src/Ejercicio_1/multiverse.ts",
+    "src/Ejercicio_1/pokemon.ts",
+    "src/Ejercicio_1/star_wars.ts",
+    "src/Ejercicio_2/basic_streamable_collection.ts",
+    "src/Ejercicio_2/documentales.ts",
+    "src/Ejercicio_2/peliculas.ts",
+    "src/Ejercicio_2/series.ts",
+    "src/Ejercicio_2/streamable.ts"
   ],
   "out": "./docs"
 }
