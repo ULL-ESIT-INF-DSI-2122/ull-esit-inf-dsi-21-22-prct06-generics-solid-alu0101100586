@@ -17,7 +17,8 @@
     "src/Ejercicio_2/documentales.ts",
     "src/Ejercicio_2/peliculas.ts",
     "src/Ejercicio_2/series.ts",
-    "src/Ejercicio_2/streamable.ts"
+    "src/Ejercicio_2/streamable.ts",
+    "src/Ejercicio_3/cifrado.ts"
   ],
   "out": "./docs"
 }
